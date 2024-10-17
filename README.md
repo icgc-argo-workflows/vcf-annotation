@@ -1,5 +1,13 @@
 # VCF Annotation workflow
 
+## Reference files
+
+### 1. Reference fasta and fai
+```
+wget https://object.genomeinformatics.org/genomics-public-data/reference-genome/GRCh38_hla_decoy_ebv/GRCh38_hla_decoy_ebv.fa
+wget https://object.genomeinformatics.org/genomics-public-data/reference-genome/GRCh38_hla_decoy_ebv/GRCh38_hla_decoy_ebv.fa.fai
+```
+
 ## SNPEFF
 
 ### SNPEFF Cache Download (using docker)
